@@ -36,7 +36,9 @@ O nome dos arquivos de algoritmo devem seguir um padrão, sendo ele o seguinte:
  Alguns exemplos:
 
 ConversaoBinarioDecimal_GuilhermeTomiasi.c;
+
 ConversaoDecimalBinario_GuilhermeTomiasi.py;
+
 Fatorial_GuilhermeTomiasi.java
 
 ## Outras contribuições
