@@ -4,7 +4,7 @@ long long fatorial (int n) {
     int i = 2;
     long long produto = 1;
 
-    for (; i < n; i++)
+    for (; i <= n; i++)
         produto *= i;
 
     return produto;
